@@ -1,0 +1,16 @@
+.add-img{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    position: relative;
+    left: 45%;
+    display: inline-block;
+    font-size: 50px;
+    transition: all 0.3s;
+    cursor: pointer;
+    .img-upload{
+        display: none;
+    }
+}
+.add-img:hover{
+    color: rgb(0, 204, 255);
+}
